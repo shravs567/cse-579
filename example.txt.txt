@@ -1,0 +1,2 @@
+GitHub is a platform where all the types of files can be inserted. It is an excellent way to showcase our own projects and show them to the users. Git is a tool to perform the process.
+ 
